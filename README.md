@@ -30,7 +30,7 @@ Happy Open Sourcing!
 - [Binomial Coefficient](algorithms/Maths/binomialCoefficient)
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
-
+-[SieveofEratosthenes](algorithms/maths/SieveofEratosthenes/)
 ### Sorting
 
 - [Bubble Sort](algorithms/Sorting/Bubble_Sort)
